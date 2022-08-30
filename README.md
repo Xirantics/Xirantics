@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xirantics
-- 👀 I’m interested in video games
-- 🌱 I’m currently learning to code in Unity
+- 👀 I’m interested in videogames
+- 🌱 I’m currently developing a project in Unity
 - 📫 How to reach me: organization.xiii@aol.com
 
 <!---
